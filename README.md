@@ -1,0 +1,2 @@
+# finder-crates
+testnet
